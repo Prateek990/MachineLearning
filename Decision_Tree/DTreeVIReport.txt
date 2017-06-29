@@ -1,0 +1,95 @@
+////////////////////
+//// Data Set 1/////
+////////////////////
+L = 500, K = 10 
+Accuracy of decision tree before pruning = 76.65%
+Accuracy of pruned decision tree = 76.75%
+
+L = 600, K = 20 
+Accuracy of decision tree before pruning = 76.65%
+Accuracy of pruned decision tree = 76.65%
+
+L = 700, K = 30 
+Accuracy of decision tree before pruning = 76.65%
+Accuracy of pruned decision tree = 76.65%
+
+L = 800, K = 40 
+Accuracy of decision tree before pruning = 76.65%
+Accuracy of pruned decision tree = 76.65%
+
+L = 900, K = 50 
+Accuracy of decision tree before pruning = 76.65%
+Accuracy of pruned decision tree = 76.45%
+
+L = 1000, K = 60 
+Accuracy of decision tree before pruning = 76.65%
+Accuracy of pruned decision tree = 76.65%
+
+L = 1100, K = 70 
+Accuracy of decision tree before pruning = 76.65%
+Accuracy of pruned decision tree = 76.65%
+
+L = 1200, K = 80 
+Accuracy of decision tree before pruning = 76.65%
+Accuracy of pruned decision tree = 76.55%
+
+L = 1300, K = 90 
+Accuracy of decision tree before pruning = 76.65%
+Accuracy of pruned decision tree = 76.65%
+
+L = 1400, K = 100 
+Accuracy of decision tree before pruning = 76.65%
+Accuracy of pruned decision tree = 76.75%
+
+L = 1500, K = 110 
+Accuracy of decision tree before pruning = 76.65%
+Accuracy of pruned decision tree = 76.65%
+
+
+////////////////////
+///// Data Set 2////
+////////////////////
+
+L = 500, K = 10 
+Accuracy of decision tree before pruning = 72.5%
+Accuracy of pruned decision tree = 73.17%
+
+L = 600, K = 20 
+Accuracy of decision tree before pruning = 72.5%
+Accuracy of pruned decision tree = 72.17%
+
+L = 700, K = 30 
+Accuracy of decision tree before pruning = 72.5%
+Accuracy of pruned decision tree = 72.0%
+
+L = 800, K = 40 
+Accuracy of decision tree before pruning = 72.5%
+Accuracy of pruned decision tree = 72.17%
+
+L = 900, K = 50 
+Accuracy of decision tree before pruning = 72.5%
+Accuracy of pruned decision tree = 72.17%
+
+L = 1000, K = 60 
+Accuracy of decision tree before pruning = 72.5%
+Accuracy of pruned decision tree = 72.5%
+
+L = 1100, K = 70 
+Accuracy of decision tree before pruning = 72.5%
+Accuracy of pruned decision tree = 72.17%
+
+L = 1200, K = 80 
+Accuracy of decision tree before pruning = 72.5%
+Accuracy of pruned decision tree = 72.0%
+
+L = 1300, K = 90 
+Accuracy of decision tree before pruning = 72.5%
+Accuracy of pruned decision tree = 72.5%
+
+L = 1400, K = 100 
+Accuracy of decision tree before pruning = 72.5%
+Accuracy of pruned decision tree = 72.17%
+
+L = 1500, K = 110 
+Accuracy of decision tree before pruning = 72.5%
+Accuracy of pruned decision tree = 71.67%
